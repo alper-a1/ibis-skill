@@ -1,0 +1,12 @@
+[project]
+name = "ibis-skill"
+version = "1.0.0"
+description = "Agent Skill for the Ibis Python dataframe library (v12.x)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "skills-ref>=0.1.1",
+]
