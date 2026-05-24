@@ -25,7 +25,7 @@ Note: This is a WIP skill, and is currently only tailored to my use case. Feel f
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/ibis-skill.git
+git clone https://github.com/alper-a1/ibis-skill.git
 
 # Symlink the skill into Claude's skills directory
 ln -s "$(pwd)/ibis-skill/ibis" ~/.claude/skills/ibis
